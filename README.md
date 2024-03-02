@@ -1,5 +1,5 @@
 # Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
-Este projeto foi desenvolvido como parte de um projeto educacional da plataforma Digital Innovation One.
+Este jogo foi desenvolvido como parte de um projeto educacional da plataforma Digital Innovation One.
 
 ### Contribuição
 
